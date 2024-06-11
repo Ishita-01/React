@@ -7,4 +7,4 @@ Clock- This React application displays the current time and updates it every sec
 
 ToDoList- This React application is a simple To-Do List that allows users to add and delete tasks. It uses functional components and React hooks (useState) to manage the state of the application.
 
-NoteKeeper- 
+NoteKeeper- This code defines a React application for a note-taking app. It uses functional components and hooks to manage state and user interactions
